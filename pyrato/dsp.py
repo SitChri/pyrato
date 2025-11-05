@@ -149,7 +149,7 @@ def find_impulse_response_maximum(
             "The SNR seems lower than the specified threshold value. Check "
             "if this is a valid impulse response with sufficient SNR.",
             stacklevel=2)
-
+    print("The ministiry of silly walks suggests another walk!")
     return max_sample
 
 
